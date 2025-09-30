@@ -1,6 +1,6 @@
 # Inventario v1 (PHP + MySQL) - Con recuperación por correo
 
-**Novedades v3**
+**Novedades v1**
 - Login con username o email.
 - Registro extendido: username, nombres, apellidos, teléfono.
 - Recuperación de contraseña vía correo (token temporal).
