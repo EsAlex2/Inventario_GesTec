@@ -1,4 +1,4 @@
-# Inventario v3 (PHP + MySQL) - Con recuperación por correo
+# Inventario v1 (PHP + MySQL) - Con recuperación por correo
 
 **Novedades v3**
 - Login con username o email.
@@ -21,8 +21,3 @@
 - Ejecuta `sql/schema.sql` en tu base de datos para crear las nuevas tablas.
 - Ajusta `config/config.php` según tu entorno.
 - Accede a `http://localhost/inventario_v1/public`
-
-Si quieres, puedo ahora:
-- Integrar envío por SMS para notificaciones (requiere cuenta Twilio u otro proveedor).
-- Añadir interfaz AJAX para crear/edit clientes y suppliers sin recargar.
-- Crear pruebas automatizadas para la recuperación y registro.
